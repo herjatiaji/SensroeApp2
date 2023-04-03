@@ -88,7 +88,7 @@
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        android:src="@drawable/wisnusedih"
+        android:src="@drawable/spot"
         tools:ignore="ContentDescription"/>
     <ImageView
         android:id="@+id/spot_bottom"
@@ -98,7 +98,7 @@
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
-        android:src="@drawable/wisnusedih"
+        android:src="@drawable/spot"
         tools:ignore="ContentDescription"/>
 
     <ImageView
@@ -107,7 +107,7 @@
         android:layout_height="@dimen/spot_size"
         android:layout_margin="@dimen/base_margin"
         android:layout_marginRight="276dp"
-        android:src="@drawable/wisnusedih"
+        android:src="@drawable/spot"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"
@@ -120,7 +120,7 @@
         android:layout_height="@dimen/spot_size"
         android:layout_margin="@dimen/base_margin"
         android:layout_marginRight="164dp"
-        android:src="@drawable/wisnusedih"
+        android:src="@drawable/spot"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintTop_toTopOf="parent"
